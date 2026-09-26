@@ -1,0 +1,6 @@
+{
+  "name": "TakeHomeUSA - US Salary After Tax Calculator",
+  "description": "Calculate your estimated US take-home pay after federal tax, state tax, Social Security, Medicare, and common deductions. Fast, free, and accurate personal finance utility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
